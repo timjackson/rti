@@ -219,9 +219,7 @@ $_SESSION['lang'] = 'gb';
 
     <div class="container">
 
-      <!-- Main component for a primary marketing message or call to action -->
-<!--      <div class="jumbotron"> -->
-<form name="myForm" id="innovate-form" action="tmp.php"  class="w3-container" >
+<form name="myForm" id="innovate-form" action="assess-submit.php"  class="w3-container" >
 
 <div id="tabs">
   <ul>
